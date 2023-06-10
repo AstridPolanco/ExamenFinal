@@ -1,0 +1,21 @@
+table td {
+    background-color: darkolivegreen;
+    padding: 20px;
+}
+table{
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+table th{
+    background-color: darkred;
+}
+.crear{
+    margin: auto;
+    padding: 10px;
+    padding-left: 250px;
+    background-color: cadetblue;
+}
+body{
+    background-color: honeydew;
+}
